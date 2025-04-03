@@ -1,0 +1,42 @@
+
+/* Selector 1: Styling the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Selector 2: Styling headings */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Selector 3: Styling paragraphs */
+p {
+    color: #555;
+    line-height: 1.6;
+    margin: 10px 20px;
+}
+
+/* Styling an image */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Adding margin, padding, and borders to a container */
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    max-width: 800px;
+}
